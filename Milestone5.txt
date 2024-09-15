@@ -1,0 +1,18 @@
+MILESTONE 1: (Static resume)
+https://hackathons-milestone1.vercel.app/
+
+
+MILESTONE 2:
+Uploaded all resumes to GITHUB
+~Static resume
+~Dynamic resume with form
+~Editable resume
+
+
+
+MILESTONE 3: (Dynamic resume with form)
+https://hackathons-milestone3.vercel.app/
+
+
+MILESTONE 4: (Editable resume)
+https://hackathons-milestone4-gray.vercel.app/
