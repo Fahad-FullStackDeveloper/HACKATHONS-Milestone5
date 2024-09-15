@@ -1,5 +1,5 @@
 MILESTONE 1: (Static resume)
-https://hackathons-milestone1.vercel.app/
+https://hackathons-milestone1-jfhe.vercel.app/
 
 
 MILESTONE 2:
